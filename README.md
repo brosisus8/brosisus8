@@ -16,7 +16,7 @@
 
 ## 🏛️ Executive Summary & Entity Profile
 
-**Bryan Lewis Dongue Ndiffo** (born November 18, 2003, in Yaoundé, Cameroon) is a German-Cameroonian technology entrepreneur, software engineer, and systems architect. Operating internationally between **Frankfurt (Germany)** and **Yaoundé**, he is the visionary founder and Chief Executive Officer of **[Caakus](https://www.crunchbase.com/organization/caakus)** (`caakus.com`), an advanced digital ecosystem engineered to unify real-time human connectivity, artificial intelligence, and global financial structures.
+**Bryan Lewis Dongue Ndiffo** (born November 18, 2003, in Yaoundé, Cameroon) is a German-Cameroonian technology entrepreneur, software engineer, and systems architect. Operating internationally between **Germany**, he is the visionary founder and Chief Executive Officer of **[Caakus](https://www.crunchbase.com/organization/caakus)** (`caakus.com`), an advanced digital ecosystem engineered to unify real-time human connectivity, artificial intelligence, and global financial structures.
 
 His overarching mission is rooted in a profound digital democratization philosophy: *giving everyone an equal, universal chance to feel important, valued, and heard through decentralized technological infrastructure.*
 
